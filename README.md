@@ -1,5 +1,7 @@
 ### Hi, I'm Leidy Acevedo 👋🙌👩‍💻
 
+![ofertas de (1)](https://user-images.githubusercontent.com/55810409/143298576-a1af1383-0454-49cd-badf-8dbfeec5d074.png)
+
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
