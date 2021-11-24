@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi, I'm Leidy Acevedo 👋🙌👩‍💻
+
+```javascript
+const aboutMe = {
+   pronouns: "she" | "her",
+   code: [Javascript, Typescript, HTML, CSS, Python],
+   technologies: {
+      frontEnd: {
+         js: ["Angular"],
+         css: [scss]
+      },
+      backEnd: {         
+         js: ["Node"],
+      },      
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
 
 <!--
 **leidyaJ/leidyAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
