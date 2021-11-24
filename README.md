@@ -14,7 +14,7 @@ const aboutMe = {
       },      
    },
    currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I'm working to be able to climb big walls.",
 };
 ```
 
